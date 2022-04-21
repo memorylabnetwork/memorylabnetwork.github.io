@@ -1,0 +1,88 @@
+<!DOCTYPE HTML>
+<!--
+	Spectral by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Memory Lab Network</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Page Wrapper -->
+			<div id="page-wrapper">
+
+				<!-- Header -->
+					<header id="header">
+						<h1><a href="index.html">Memory Lab Network</a></h1>
+						<nav id="nav">
+							<ul>
+								<li class="special">
+									<a href="#menu" class="menuToggle"><span>Menu</span></a>
+									<div id="menu">
+										<ul>
+											<li><a href="index.html">Home</a></li>
+											<li><a href="about.html">About</a></li>
+											<li><a href="resources.html">Resources</a></li>
+											<li><a href="blog.html">Blog</a></li>
+											<li><a href="contact.html">Contact</a></li>
+										</ul>
+									</div>
+								</li>
+							</ul>
+						</nav>
+					</header>
+
+				<!-- Main -->
+					<article id="main">
+						<header>
+							<h2>Interface</h2>
+							<p>The blog of the Memory Lab Network</p>
+						</header>
+						<section class="wrapper style5">
+							<div class="inner">
+
+								<header>
+										<h4>April 21, 2022: DC Public Library Announces Final Memory Lab Network Grant Recipients </h4>
+										<p>Written by Siobhan Hagan, Memory Lab Network Project Manager</p>
+								</header>
+								<p><i><b>Federal Grant Supports Digital Preservation Programs at Libraries</i></p>
+								<p>(Washington, D.C.)</b> - People and families in three communities are one step closer to being able to digitize and preserve videotapes, photographs and other family keepsakes at their library. Their libraries have been awarded a Memory Lab Network Grant.</p>
+								<p>Santa Fe Public Library, NM; Tacoma Public Library, WA; and Harnett County Public Library, NC are the recent recipients of the grant from the Institute of Museum and Library Services (IMLS) and administered by the DC Public Library.</p>
+								<p>More than 15 libraries applied for the program. The finalists were selected based on their interest and commitment, location, library system size and population served. Under the grant, the libraries' staff will receive digital preservation training and equipment recommendations that support their respective digital archiving programs. The project will also create training materials that other libraries can use to develop similar programs.</p>
+								<p>This is the third and final cohort to receive grants. The program is modeled after the DC Public Library’s Memory Lab, which features technology like professional-grade scanners and VCRs along with step-by-step instructions for saving items in a digital format. Since the lab’s launch in 2016, patrons have booked more than 1,400 sessions and digitized more than 4,000 hours of video, audio cassettes and other personal materials.</p>
+							
+							</div>
+						</section>
+					</article>
+
+				<!-- Footer -->
+					<footer id="footer">
+						<ul class="icons">
+							<li><a href="https://twitter.com/MemLabNet" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+							<li><a href="mailto:siobhan.hagan@dc.gov" class="icon fa-envelope-o"><span class="label">Email</span></a></li>
+						</ul>
+						<ul class="copyright">
+							<li>&copy; <a href="https://www.dclibrary.org/">DC Public Library</a></li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+							<p>This project was made possible in part by the <a href="https://www.imls.gov/">Institute of Museum and Library Services</a></p>
+						</ul>
+					</footer>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
